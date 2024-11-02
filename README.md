@@ -2,7 +2,7 @@
 
 🎓 **Data Analytics Professional | Advanced Machine Learning Specialist | Energy Data Enthusiast**
 
-Welcome to my GitHub profile! I am a Data Analytics professional with a focus on applying advanced machine learning algorithms to energy data, specializing in predictive modeling and forecasting. My goal is to leverage data-driven insights to solve complex challenges in the energy sector, including energy consumption forecasting, anomaly detection, and optimization.
+Welcome to my GitHub profile! I am a Data Analytics professional with a focus on applying advanced machine learning algorithms to energy data, specializing in predictive modeling and forecasting. My goal is to implement data-driven insights to solve complex challenges in the energy sector, including energy consumption forecasting, anomaly detection, and optimization.
 
 ---
 
