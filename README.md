@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kamal Chapagain!
+# 👋 Hello all, I'm Kamal Chapagain, PhD
 
 🎓 **Data Analytics Professional | Advanced Machine Learning Specialist | Energy Data Enthusiast**
 
